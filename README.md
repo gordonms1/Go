@@ -1,2 +1,7 @@
 # Go
 Projects while learning GOLANG
+
+/ALL PROJECTS ARE OPENSOURCE
+/PLEASE CREATE A NEW BRANCH IF YOU ARE BORED AND WANT TO FIX MY WORK
+
+/michaela.gordon.code@gmail.com
